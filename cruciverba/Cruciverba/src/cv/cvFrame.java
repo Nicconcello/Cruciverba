@@ -186,7 +186,7 @@ public class cvFrame{
 		dO.append("12. Dio dei morti nelll'antico egitto\n");
 		dO.append("13. Uno dei tre stati della materia\n");
 		dO.append("14. Dò fastidio, provoco nervosismo\n");
-		dO.append("15. Azriel ssenza el\n");
+		dO.append("15. Azriel senza el\n");
 		dO.append("16. Assistenza a lungo termine\n");
 		dO.append("19. Affine allo Iodio\n");
 		dO.append("22. Indica una contrapposizione\n");
@@ -201,3 +201,4 @@ public class cvFrame{
 	}
 
 }
+
